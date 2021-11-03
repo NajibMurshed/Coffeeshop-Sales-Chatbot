@@ -7,8 +7,8 @@
   3) Install libraries: nltk, numpy and pandas
   4) Install nltk.tokenize.punkt through terminal: 
      python
-     >>> import nltk
-     >>> nltk.download('punkt')
+     import nltk
+     nltk.download('punkt')
   5) Install the virtualenv package: pip install virtualenv
   6) Create the virtual environment: virtualenv mypython
   7) Activate the virtual environment: 
