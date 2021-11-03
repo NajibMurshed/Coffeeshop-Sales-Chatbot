@@ -6,9 +6,9 @@
   2) Install Pytorch [https://pytorch.org]
   3) Install libraries: nltk, numpy and pandas
   4) Install nltk.tokenize.punkt through terminal: 
-     python
-     import nltk
-     nltk.download('punkt')
+     -> python
+     -> import nltk
+     -> nltk.download('punkt')
   5) Install the virtualenv package: pip install virtualenv
   6) Create the virtual environment: virtualenv mypython
   7) Activate the virtual environment: 
@@ -18,8 +18,8 @@
      source mypython/bin/activate
      
   8) Insert the following commands in the virtual environment:
-     python train.py
-     python chat.py
+     -> python train.py
+     -> python chat.py
      
 
 
